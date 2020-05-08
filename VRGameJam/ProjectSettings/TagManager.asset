@@ -10,6 +10,9 @@ TagManager:
   - Charged
   - Head
   - Obstacle
+  - Movable
+  - Pad
+  - Hand
   layers:
   - Default
   - TransparentFX
